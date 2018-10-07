@@ -8,6 +8,9 @@
 ## script list(game list)
 - [merge_star](https://play.google.com/store/apps/details?id=com.nanoo.mergestar)
 
+## little demo
+- merge_star [auto_merge](https://drive.google.com/open?id=1jXALZPI1iN7bP-iXtn7RaANuxB49MwSB)
+
 ## how-to
 ### test
 Test mode is a sequence of movements.
